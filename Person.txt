@@ -1,0 +1,2 @@
+Name: 张小三 Sex: 男 Age: 24 Number: 10001 Department: 电子系 Personel: 教授
+Name: 李四	Sex: 女	Age: 25	Number: 10002	Department: 计算机系	Personel: 副教授	
